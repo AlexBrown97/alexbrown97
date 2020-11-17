@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 
 
-🏡 [website][website] **|** 
+🏡 [blog][blog] **|** 
 👔 [linkedin][linkedin]
 
 
-[website]: https://bradgarropy.com
+[blog]: https://medium.com/@alex.brown.1
 [linkedin]: https://linkedin.com/in/bradgarropy
 
