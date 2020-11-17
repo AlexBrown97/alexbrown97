@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 
 
 [blog]: https://medium.com/@alex.brown.1
-[linkedin]: https://linkedin.com/in/bradgarropy
+[linkedin]: https://www.linkedin.com/in/alexandra-brown-b291211b8/
 
