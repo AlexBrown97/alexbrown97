@@ -1,7 +1,7 @@
 ### Hi, I'm Alex 👋
 
-- 🔭 I’m currently working on a personal portfolio website
-- 🌱 I’m currently learning Styled Components, Firebase Realtime Database.
+- 🔭 I’m currently working as a Junior Software Engineer
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: alex.brown.1@hotmail.com
 - 😄 Pronouns: She/Her
 
