@@ -1,7 +1,6 @@
 ### Hi, I'm Alex 👋
 
-- 🔭 I’m currently working as a Junior Software Engineer
-- 🌱 I’m currently learning C#
+- 🔭 I’m currently working as a Full Stack Software Engineer
 - 📫 How to reach me: alex.brown.1@hotmail.com
 - 😄 Pronouns: She/Her
 
